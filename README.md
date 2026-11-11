@@ -2,6 +2,8 @@
 
 [![tests](https://github.com/TekservixHQ/waservix-lua/actions/workflows/tests.yml/badge.svg)](https://github.com/TekservixHQ/waservix-lua/actions/workflows/tests.yml)
 
+**WAservix WhatsApp API Gateway** - official Lua client: send WhatsApp messages from your own number. By Tekservix.
+
 Lua client for the [WAservix WhatsApp API Gateway](https://tekservix.com/waservix/).
 
 WAservix links your own WhatsApp number by QR code (the same way WhatsApp Web does) and gives you a REST API to send text, images, documents, locations and polls, with webhooks for incoming messages and status updates.
