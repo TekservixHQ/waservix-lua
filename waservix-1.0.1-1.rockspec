@@ -1,12 +1,12 @@
 rockspec_format = "3.0"
 package = "waservix"
-version = "1.0.0-1"
+version = "1.0.1-1"
 source = {
   url = "git+https://github.com/TekservixHQ/waservix-lua.git",
-  tag = "v1.0.0",
+  tag = "v1.0.1",
 }
 description = {
-  summary = "Lua client for the WAservix WhatsApp API Gateway: send WhatsApp messages from your own number.",
+  summary = "WAservix WhatsApp API Gateway: official Lua client by Tekservix. Send WhatsApp messages, images and documents from your own number, with status tracking and webhooks.",
   detailed = [[
 WAservix links your own WhatsApp number by QR code and gives you a REST API: send text,
 images, documents, locations and polls, check message status, manage contacts and groups,

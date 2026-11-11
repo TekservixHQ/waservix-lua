@@ -10,7 +10,7 @@
 local ok_json, json = pcall(require, "cjson")
 if not ok_json then json = require "dkjson" end
 
-local M = { _VERSION = "1.0.0" }
+local M = { _VERSION = "1.0.1" }
 M.DEFAULT_BASE_URL = "https://tekservix.com/waservix/api"
 
 local Client = {}
